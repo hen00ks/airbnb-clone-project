@@ -50,7 +50,7 @@ This full-stack project replicates Airbnb's core features, covering:
 | Docker                | Containerized deployment       |
 | GitHub Actions        | CI/CD pipeline automation      |
 
-## 🧠 UI/UX Design Planning
+## 🧠 UI/UX Design Planning and UI Component Patterns
 
 ### Design Goals
 
